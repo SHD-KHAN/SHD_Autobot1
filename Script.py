@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Fork our repository and give star ⭐- <a href='https://github.com/Skhan021/SHD_Autobot1'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+Fork our repository and give star ⭐- <a href='https://github.com'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
