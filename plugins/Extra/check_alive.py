@@ -6,7 +6,7 @@ CMD = ["/", "."]
 
 @Client.on_message(filters.command("alive", CMD))
 async def check_alive(_, message):
-    await message.reply_text("you very luck 🤞 iam alive ❤️ press /start use me")
+    await message.reply_text("ʏᴏᴜʀ ᴠᴇʀʏ ʟᴜᴄᴋʏ ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴘʀᴇss /start ᴜsᴇ ᴍᴇ")
 
 
 @Client.on_message(filters.command("ping", CMD))
