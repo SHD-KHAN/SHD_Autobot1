@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """<b>ʜᴇʟʟᴏ {},
 \nᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>,\nɪ ᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ  ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ + ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ + ᴍᴀɴᴜᴀʟ ғɪʟᴛᴇʀ ʙᴏᴛ \n\nʏᴏᴜ ᴄᴀɴ ᴜsʀ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇᴅ, sᴇʀɪᴇs, ᴀɴɪᴍᴇ, ᴄᴀʀᴛᴏᴏɴ, ᴋ-ᴅʀᴀᴍᴀ & ᴍᴀɴʏ ᴍᴏʀᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ \n\nɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
-\nᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/SHD_KHAN'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+\nᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/SHD_KHAN'>샤히드 칸. ˢʰᵃʰⁱᵈ</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/SHD_KHAN'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/SHD_KHAN'>샤히드 칸. ˢʰᵃʰⁱᵈ</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/SHD_Movies_Search_Bot>SHD_Movies_Search_Bot</a>
