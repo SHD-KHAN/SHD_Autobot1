@@ -220,8 +220,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
-═══════════════════ </b>"""
+<a href="https://t.me/Anime_Hindi_Series">📁 {file_name}</a>
+══════════════════ </b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
