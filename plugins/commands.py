@@ -58,7 +58,7 @@ async def start(client, message):
         madflix = await message.reply_sticker("CAACAgIAAxkBAAEKsGBlR4DcGRmmBvcVT2JDDQhs-Vj6RAACVAADQbVWDGq3-McIjQH6MwQ")
     await asyncio.sleep(2)
     await madflix.delete()
-        await message.reply_photo(
+        await message.reply_photo()
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
