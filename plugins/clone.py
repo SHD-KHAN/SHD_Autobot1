@@ -2,7 +2,7 @@
 import time
 import pytz
 import asyncio
-from bot import Bot
+from bot import SHD_Movies_Search_Bot
 from math import trunc
 from library.sql import *
 from presets import Presets
