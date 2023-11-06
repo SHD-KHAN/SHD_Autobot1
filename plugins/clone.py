@@ -15,7 +15,7 @@ from library.chat_support import calc_percentage, calc_progress, save_target_cfg
 #
 bot_start_time = time.time()
 #
-async def clone_medias(bot: Bot, m: Message):
+async def clone_medias(bot: SHD_Movies_Search_Bot, m: Message):
     id = int(m.chat.id)
     query = await query_msg(id)
     clone_cancel_key[id] = int(m.id)
