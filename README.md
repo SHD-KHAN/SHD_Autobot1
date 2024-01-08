@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/8e0fca27184354f479593.jpg" alt="TG_BOTZ Logo">
+  <img src="https://telegra.ph/file/9173299851d6b38e4d7d8.jpg" alt="TG_BOTZ Logo">
 </p>
 <h1 align="center">
   TG_UPDATES1
