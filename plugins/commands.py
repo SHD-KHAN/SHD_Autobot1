@@ -55,6 +55,9 @@ async def start(client, message):
         m=await message.reply_sticker("CAACAgUAAx0CdFf2vQACIxpluuqMdJwo0eGseJbWnNhu1qGK2gACcwAD_lPRFGwDdnXy1J3vHgQ")
         await asyncio.sleep(1)
         await m.delete()
+        m=await message.reply_text("⚡")
+        await asyncio.sleep(1)
+        await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
